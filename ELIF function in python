@@ -1,0 +1,33 @@
+print("Marvel Movie Charactor Creator")
+print("_________")
+print()
+batman = input("Do you like flying at night?: ")
+if batman == "yes":
+  print("You must be batman!!!")
+else:
+  print("Then you are not batman!!!, Sorry-")
+print()
+superman = input("Do you like going to the gym so often?: ")
+if superman == "yes":
+  print("You must be superman!!!")
+else:
+  print("Then you are not superman!!!, Sorry-")
+print()
+antman = input("Are you a very short person?: ")
+if antman == "yes":
+  print("You must be antman!!!")
+else:
+  print("you are not antman")
+
+blackpanther = input("are you undestructible?: ")
+if blackpanther == "yes":
+  print("You must be black panther!!!")
+else:
+  print("You arenot black panther!!!")
+print()
+drStrange = input("do you like keeping time?: ")
+if drStrange == "yes":
+  print("then you are Dr. Strange.")
+else:
+  print("you are not Dr. Strange.... I quit")
+  
